@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to loans section"
+  contactDetails:
+    name: "Sisira"
+    mobile: "1234567890"
+  onCallSupport:
+    - 14-141-141
+    - 15-151-151

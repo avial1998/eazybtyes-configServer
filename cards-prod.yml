@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to cards section"
+  contactDetails:
+    name: "Avinash"
+    mobile: 81818181
+  onCallSupport:
+    - 12-121-121
+    - 13-131-131

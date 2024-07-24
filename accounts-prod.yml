@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to eazybank "
+  contactDetails:
+    name: "Sooraj"
+    mobile: "1234567890"
+  onCallSupport:
+    - 1234567890
+    - 0987654321

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to loans section"
+  contactDetails:
+    name: "Avinash"
+    mobile: "1234567890"
+  onCallSupport:
+    - 12-121-121
+    - 13-131-131

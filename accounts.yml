@@ -1,0 +1,14 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to eazybank "
+  contactDetails:
+    name: "Avinash"
+    mobile: "1234567890"
+  onCallSupport:
+    - 1234567890
+    - 0987654321
+
+
