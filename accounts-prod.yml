@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to eazybank "
   contactDetails:
     name: "Sooraj"
-    mobile: "1234567890"
+    mobile: "{cipher}09e59e88146f09b0031d447cc1e11afad382e5d47ac7170d8589b03b91e578f3"
   onCallSupport:
     - 1234567890
     - 0987654321
