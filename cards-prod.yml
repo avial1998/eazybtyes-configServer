@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to cards section"
+  message: "Welcome to cards section in production mode"
   contactDetails:
     name: "Avinash"
     mobile: 81818181
