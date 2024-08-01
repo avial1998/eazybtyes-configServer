@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 loans:
-  message: "Welcome to loans section for QA mode"
+  message: "Welcome to loans section for Quality check mode"
   contactDetails:
     name: "Sisira"
     mobile: "1234567890"
